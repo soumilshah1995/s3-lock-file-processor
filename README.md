@@ -1,8 +1,8 @@
 # s3-lock-file-processor
 s3-lock-file-processor
 
-![image](https://github.com/user-attachments/assets/dfca9350-fbfe-4270-a922-8d715be5fcb7)
 
+![Untitled Diagram drawio-2](https://github.com/user-attachments/assets/26e94a70-b8ff-4a0b-a6cb-013f37c880eb)
 
 ### prerequisites 
 ```
