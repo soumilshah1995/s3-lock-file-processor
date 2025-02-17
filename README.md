@@ -1,7 +1,7 @@
 # s3-lock-file-processor
 s3-lock-file-processor
 
-![image](https://github.com/user-attachments/assets/ca13e354-91c6-4fcb-8c6d-069b8007c698)
+![image](https://github.com/user-attachments/assets/dfca9350-fbfe-4270-a922-8d715be5fcb7)
 
 
 ### prerequisites 
